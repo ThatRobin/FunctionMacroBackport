@@ -1,0 +1,9 @@
+accessWidener   v1  named
+
+accessible method net/minecraft/server/command/DataCommand getNbt (Lnet/minecraft/command/argument/NbtPathArgumentType$NbtPath;Lnet/minecraft/command/DataCommandObject;)Lnet/minecraft/nbt/NbtElement;
+
+accessible class net/minecraft/server/function/CommandFunctionManager$Execution
+accessible method net/minecraft/server/function/CommandFunctionManager$Execution reportError (Ljava/lang/String;)V
+accessible method net/minecraft/server/function/CommandFunctionManager$Execution recursiveRun (Lnet/minecraft/server/function/CommandFunction;Lnet/minecraft/server/command/ServerCommandSource;)V
+accessible method net/minecraft/server/function/CommandFunctionManager$Execution run (Lnet/minecraft/server/function/CommandFunction;Lnet/minecraft/server/command/ServerCommandSource;)I
+accessible method net/minecraft/server/function/CommandFunctionManager$Execution <init> (Lnet/minecraft/server/function/CommandFunctionManager;Lnet/minecraft/server/function/CommandFunctionManager$Tracer;)V

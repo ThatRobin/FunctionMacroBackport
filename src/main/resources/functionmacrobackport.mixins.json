@@ -1,0 +1,16 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "io.github.thatrobin.functionmacrobackport.mixin",
+	"compatibilityLevel": "JAVA_16",
+	"mixins": [
+		"CommandFunctionManagerMixin",
+		"CommandFunctionMixin",
+		"FunctionCommandMixin"
+	],
+	"client": [
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

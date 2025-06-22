@@ -1,0 +1,6 @@
+{
+	"commands.function.error.parse": "While instantiating macro %s: Command '%s' caused error: %s",
+	"commands.function.error.argument_not_compound": "Invalid argument type: %s, expected Compound",
+	"commands.function.error.missing_arguments": "Missing arguments to function %s",
+	"commands.function.error.missing_argument": "Missing argument %2$s to function %1$s"
+}
